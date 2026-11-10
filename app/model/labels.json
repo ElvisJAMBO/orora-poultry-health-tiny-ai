@@ -1,6 +1,6 @@
 {
-  "model": "orora_droppings_v1",
-  "file": "orora_droppings_v1_fp16.tflite",
+  "model": "orora_droppings_v1_elvis",
+  "file": "orora_droppings_v1_elvis_fp16.tflite",
   "classes": [
     "healthy",
     "cocci",
